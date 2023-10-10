@@ -2,6 +2,8 @@
 A simple U-Net design for blood vessel / OCT layer segmentation
 
 Simple as possible, clear as possible, friendly for beginners
+proper designs (loss function, model output design) here to run smoothly
+suitable for the basic code deployment for your own research
 
 
 Task1: Blood vesssel segmentation
